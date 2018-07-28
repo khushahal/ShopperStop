@@ -1,0 +1,44 @@
+[
+{
+"id": 1,
+"name": "Cheese",
+"calories": 100,
+"cost": 20,
+"weight": 200
+},
+{
+"id": 2,
+"name": "Soda",
+"calories": 50,
+"cost": 200,
+"weight": 210
+},
+{
+"id": 3,
+"name": "Chery",
+"calories": 1000,
+"cost": 2000,
+"weight": 1000
+},
+{
+"id": 4,
+"name": "Strabery",
+"calories": 500,
+"cost": 10000,
+"weight": 1000
+},
+{
+"id": 5,
+"name": "Choco",
+"calories": 700,
+"cost": 60,
+"weight": 200
+},
+{
+"id": 6,
+"name": "IceCreame",
+"calories": 1500,
+"cost": 150,
+"weight": 750
+}
+]
